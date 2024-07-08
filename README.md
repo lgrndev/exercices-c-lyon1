@@ -12,7 +12,6 @@ Chaque branche de ce dépôt correspond à un ensemble d'exercices ou à un TD s
 - [TD2](https://github.com/lgrndev/exercices-c-lyon1/tree/TD1E2-solution)
 - [TD3](https://github.com/lgrndev/exercices-c-lyon1/tree/TD1E3-solution)
 
-*(Remplacez les liens ci-dessus par les liens appropriés vers les branches correspondantes une fois qu'elles sont créées)*
 
 ## Licence
 
