@@ -20,6 +20,7 @@ Chaque branche de ce dépôt correspond à un ensemble d'exercices ou à un TD s
 ### TD 2
 - [TD 2 - Exercice 1 - Corrigé](https://github.com/lgrndev/exercices-c-lyon1/tree/TD2E1-solution)
 - [TD 2 - Exercice 2 - Corrigé](https://github.com/lgrndev/exercices-c-lyon1/tree/TD2E2-solution)
+- [TD 2 - Exercice 3 - Corrigé](https://github.com/lgrndev/exercices-c-lyon1/tree/TD2E3-solution)
 
 
 ## Licence
