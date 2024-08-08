@@ -1,6 +1,16 @@
-### ⚠️ TOUT EST DISPONIBLE SUR [CE SITE](https://lgrndev.github.io/) DIRECTEMENT⚠️
+<h3 align='center'> ⚠️ TOUT EST DISPONIBLE SUR <a href='https://lgrndev.github.io/'>CE SITE</a> DIRECTEMENT⚠️</h3>
 
-# Corrigés des TD de C++ - Université Lyon 1
+<h1 align='center'> Corrigés des TD de C++ - Université Lyon 1</h1>
+
+<div align='center'>
+  
+### Exercices de Lyon1, promo 2024-2025
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Github stars](https://img.shields.io/github/stars/lgrndev/exercices-c-lyon1?style=for-the-badge)
+
+</div>
+
+## A propos
 
 Bienvenue dans ce dépôt GitHub qui contient les corrigés des travaux dirigés (TD) de C++ de l'Université Lyon 1. Ce projet a été réalisé par Lucas Langrand dans le but de fournir des solutions et des explications aux exercices abordés pendant les cours.
 
