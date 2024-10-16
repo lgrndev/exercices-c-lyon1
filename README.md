@@ -1,6 +1,6 @@
 <h3 align='center'> ⚠️ TOUT EST DISPONIBLE SUR <a href='https://lgrndev.github.io/'>CE SITE</a> DIRECTEMENT⚠️</h3>
 
-<h1 align='center'> Corrigés des TD de C++ - Université Lyon 1</h1>
+<h1 align='center'> Corrigés des TD de C++ - Université Lyon 1 (OUTDATED)</h1>
 
 <div align='center'>
   
